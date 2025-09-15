@@ -1,0 +1,5 @@
+#!/bin/bash
+x=$PWD
+cd "$1"
+rm *.tmp
+cd "$x"

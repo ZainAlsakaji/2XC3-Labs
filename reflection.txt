@@ -1,0 +1,6 @@
+Top three things I learned so far:
+How to use the command line
+How to use C
+What is Linux
+I am excited to learn how to use Git
+I am worried about learning C
